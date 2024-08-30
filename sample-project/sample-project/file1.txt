@@ -1,1 +1,2 @@
-This assignment to create merge conflicts on Kane Branch.
+
+This assignment  to create merge conflicts .
